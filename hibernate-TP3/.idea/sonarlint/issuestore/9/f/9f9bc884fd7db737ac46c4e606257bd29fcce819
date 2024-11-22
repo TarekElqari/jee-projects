@@ -1,0 +1,8 @@
+
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(‡Œïøşÿÿÿÿ8âàÀªµ2J$15232cdf-b15c-47b1-812c-5f81de5d169f
+m
+java:S1181"%Catch Exception instead of Throwable.(À˜§üÿÿÿÿ8ŸéÁªµ2J$a29905fd-cbf8-4807-a840-7cd7122cefa1
+r	java:S106"+Replace this use of System.err by a logger.(Ô˜Òòıÿÿÿÿ8åàÀªµ2J$9a013b76-1e40-409f-a698-097215b3d5ca
+”
+java:S1128"LRemove this unused import 'com.fasterxml.classmate.AnnotationConfiguration'.(ë€âÆùÿÿÿÿ8·éÁªµ2J$a2823d33-96c5-45f3-9329-46bdeb027deb

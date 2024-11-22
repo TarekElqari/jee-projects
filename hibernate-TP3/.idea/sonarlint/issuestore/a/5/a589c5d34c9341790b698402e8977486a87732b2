@@ -1,0 +1,7 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(‰Åßùÿÿÿÿ8Ñ²«µ2J$7d237409-0ea1-4100-80f6-21d78576ff9f
+r	java:S106 "+Replace this use of System.out by a logger.(ëØÇÌúÿÿÿÿ8Ó²«µ2J$2aab1f3d-a1c7-454d-a4a4-aafeb64f7fb6
+o
+java:S1874%",Remove this use of "Date"; it is deprecated.(Æô½™8Õ²«µ2J$6f47abf6-9871-41c0-aeeb-c8180fe4fc7b
+r	java:S106'"+Replace this use of System.out by a logger.(ÂŞƒœÿÿÿÿÿ8Ö²«µ2J$16efae3b-973f-4063-b691-625b8a46f9db
+m	java:S106)"+Replace this use of System.out by a logger.(û‰°ô8×²«µ2J$1e2359b8-0fec-4c1f-856c-7dccb12a7b28
