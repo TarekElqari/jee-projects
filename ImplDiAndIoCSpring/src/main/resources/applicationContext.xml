@@ -1,0 +1,13 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="dao1" class="ma.emsi.dao.DaoImpl"/>
+    <bean id="dao2" class="ma.emsi.dao.DaoImpl2"/>
+    <bean id="dao3" class="ma.emsi.dao.DaoImpl3"/>
+
+    <bean id="metier" class="ma.emsi.metier.MetierImpl">
+        <property name="dao" ref="dao3"/>
+    </bean>
+</beans>
