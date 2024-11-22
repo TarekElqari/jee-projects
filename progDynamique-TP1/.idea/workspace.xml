@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08485913-3ad6-4567-985c-4c88d4cdce46" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/0/5/058398f89712900bb2c44778dca08f3aeb88616f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/0/d/0d73fe1636eb4871b8097e1e8ef2cd632064651a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/2/0/204d8cab099f33fcbe3cba9e00eff561fd71be11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/2/c/2c08fc3c46898e31b79cce3ea403aecfc7861b2d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/2/e/2e0007b1f99cd599423032d8e6899a5f1164d89e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/3/6/361c8ad68f4b306bbe8a41301389b01577b5a07d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/4/2/42bc6978676f97b77044f61125b1652d97dd1405" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/6/9/69ea3e3554284f5642bb291c9749670853e087bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/9/9/99fc1bc551a4f94144db2f92bd469d70b32fa07f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/a/d/ade7c8492c1dc78cfd645a0e3c2a6bcd91924b7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/b/8/b8906cd696e7824fbffcca39bb4cd7de8ac72ded" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/0/5/058398f89712900bb2c44778dca08f3aeb88616f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/0/d/0d73fe1636eb4871b8097e1e8ef2cd632064651a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/2/0/204d8cab099f33fcbe3cba9e00eff561fd71be11" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/2/c/2c08fc3c46898e31b79cce3ea403aecfc7861b2d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/2/e/2e0007b1f99cd599423032d8e6899a5f1164d89e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/3/6/361c8ad68f4b306bbe8a41301389b01577b5a07d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/4/2/42bc6978676f97b77044f61125b1652d97dd1405" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/6/9/69ea3e3554284f5642bb291c9749670853e087bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/9/9/99fc1bc551a4f94144db2f92bd469d70b32fa07f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/a/d/ade7c8492c1dc78cfd645a0e3c2a6bcd91924b7a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/b/8/b8906cd696e7824fbffcca39bb4cd7de8ac72ded" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/TP2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/src/main/java/ma/emsi/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/src/main/java/ma/emsi/dao/DaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/src/main/java/ma/emsi/dao/DaoImpl2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/src/main/java/ma/emsi/dao/DaoImpl3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/src/main/java/ma/emsi/dao/IDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/src/main/java/ma/emsi/metier/IMetier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/src/main/java/ma/emsi/metier/MetierImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/src/main/java/ma/emsi/presentation/Presentation2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/src/main/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/src/test/java/ma/emsi/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/src/test/java/ma/emsi/dao/DaoImplTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImplDiAndIoCSpring/src/test/java/ma/emsi/metier/MetierImplTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2pDWYVAyz6VnNCe8fDhzniGdzoJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Presentation2.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Presentation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="presentation.Presentation2" />
+      <module name="progDynamique-TP1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="presentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Presentation2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08485913-3ad6-4567-985c-4c88d4cdce46" name="Changes" comment="" />
+      <created>1732301175734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732301175734</updated>
+      <workItem from="1732301177070" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
