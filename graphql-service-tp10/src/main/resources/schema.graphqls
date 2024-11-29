@@ -1,0 +1,33 @@
+type Compte {
+    id: ID!
+    owner: String!
+    typeCompte: TypeCompte!
+    balance: Float!
+}
+
+enum TypeCompte {
+    COURANT
+    EPARGNE
+}
+
+type Transaction {
+    id: ID!
+    date: String!
+    amount: Float!
+    type: String!
+    compte: Compte!
+}
+
+type Query {
+    getAllComptes: [Compte!]!
+    getCompteById(id: ID!): Compte
+    getTransactionsByCompteId(compteId: ID!): [Transaction!]!
+}
+
+type Mutation {
+    createCompte(owner: String!, typeCompte: TypeCompte!, balance: Float!): Compte
+    updateCompte(id: ID!, owner: String, typeCompte: TypeCompte, balance: Float): Compte
+    deleteCompte(id: ID!): String
+
+    createTransaction(compteId: ID!, amount: Float!, type: String!): Transaction
+}
